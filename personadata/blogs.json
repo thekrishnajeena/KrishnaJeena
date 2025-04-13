@@ -1,0 +1,55 @@
+{
+  "categories": [
+    {
+      "name": "Business",
+      "blogs": [
+        {
+          "title": "Harvard Business Review",
+          "url": "https://hbr.org/"
+        },
+        {
+          "title": "For Entrepreneurs (by David Skok)",
+          "url": "https://www.forentrepreneurs.com/"
+        },
+        {
+          "title": "Both Sides of the Table (by Mark Suster)",
+          "url": "https://bothsidesofthetable.com"
+        }
+      ]
+    },
+    {
+      "name": "Inspiration",
+      "blogs": [
+        {
+          "title": "Zen Habits (by Leo Babauta)",
+          "url": "https://zenhabits.net/"
+        },
+        {
+          "title": "Mark Manson",
+          "url": "https://markmanson.net/"
+        },
+        {
+          "title": "James Clear (Author of Atomic Habits)",
+          "url": "https://jamesclear.com/articles"
+        }
+      ]
+    },
+    {
+      "name": "Art",
+      "blogs": [
+        {
+          "title": "Collosal",
+          "url": "https://www.thisiscolossal.com/"
+        },
+        {
+          "title": "The Jealour Creator",
+          "url": "https://www.thejealouscurator.com/"
+        },
+        {
+          "title": "BOOOOOOOM",
+          "url": "https://www.booooooom.com/"
+        }
+      ]
+    }
+  ]
+}
