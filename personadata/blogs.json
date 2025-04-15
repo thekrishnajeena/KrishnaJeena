@@ -14,6 +14,14 @@
         {
           "title": "Both Sides of the Table (by Mark Suster)",
           "url": "https://bothsidesofthetable.com"
+        },
+        {
+          "title": "Forbes",
+          "url": "https://www.forbes.com/"
+        },
+        {
+          "title": "Entrepreneur",
+          "url": "https://www.entrepreneur.com/"
         }
       ]
     },
@@ -31,6 +39,14 @@
         {
           "title": "James Clear (Author of Atomic Habits)",
           "url": "https://jamesclear.com/articles"
+        },
+        {
+          "title": "Tiny Buddha",
+          "url": "https://tinybuddha.com/"
+        },
+        {
+          "title": "Gretchen Rubin (The Happiness Project)",
+          "url": "https://gretchenrubin.com/blog/"
         }
       ]
     },
@@ -38,16 +54,49 @@
       "name": "Art",
       "blogs": [
         {
-          "title": "Collosal",
+          "title": "Colossal",
           "url": "https://www.thisiscolossal.com/"
         },
         {
-          "title": "The Jealour Creator",
+          "title": "The Jealous Curator",
           "url": "https://www.thejealouscurator.com/"
         },
         {
           "title": "BOOOOOOOM",
           "url": "https://www.booooooom.com/"
+        },
+        {
+          "title": "My Modern Met",
+          "url": "https://mymodernmet.com/"
+        },
+        {
+          "title": "Juxtapoz",
+          "url": "https://www.juxtapoz.com/"
+        }
+      ]
+    },
+    {
+      "name": "Lifestyle",
+      "blogs": [
+        {
+          "title": "A Cup of Jo",
+          "url": "https://cupofjo.com/"
+        },
+        {
+          "title": "Girlboss",
+          "url": "https://girlboss.com/"
+        },
+        {
+          "title": "A Beautiful Mess",
+          "url": "https://abeautifulmess.com/"
+        },
+        {
+          "title": "Cupcakes and Cashmere",
+          "url": "https://cupcakesandcashmere.com/"
+        },
+        {
+          "title": "The Blonde Salad",
+          "url": "https://www.theblondesalad.com/"
         }
       ]
     }
