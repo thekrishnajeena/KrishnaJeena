@@ -2,7 +2,7 @@
   "categories": [
     {
       "name": "Business",
-      "image": "https://example.com/images/business.jpg",
+      "image": "https://aitken-sci.com/wp-content/uploads/2024/04/business.jpg",
       "blogs": [
         { "title": "Harvard Business Review", "url": "https://hbr.org/" },
         { "title": "For Entrepreneurs (by David Skok)", "url": "https://www.forentrepreneurs.com/" },
@@ -13,7 +13,7 @@
     },
     {
       "name": "Inspiration",
-      "image": "https://example.com/images/inspiration.jpg",
+      "image": "https://d36tnp772eyphs.cloudfront.net/blogs/1/2017/03/1.-Emmeline.jpg",
       "blogs": [
         { "title": "Zen Habits (by Leo Babauta)", "url": "https://zenhabits.net/" },
         { "title": "Mark Manson", "url": "https://markmanson.net/" },
@@ -24,7 +24,7 @@
     },
     {
       "name": "Art",
-      "image": "https://example.com/images/art.jpg",
+      "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcGR2YW5nb2doLXNlbGYtcG9ydHJhaXQtbTAxLWpvYjY2MV8yLWwxMDBvNmVmLmpwZw.jpg",
       "blogs": [
         { "title": "Colossal", "url": "https://www.thisiscolossal.com/" },
         { "title": "The Jealous Curator", "url": "https://www.thejealouscurator.com/" },
@@ -35,7 +35,7 @@
     },
     {
       "name": "Lifestyle",
-      "image": "https://example.com/images/lifestyle.jpg",
+      "image": "https://ghost-cms.s3.ap-south-1.amazonaws.com/2024/01/lifestyle-changes-for-ease-in-life_truworth-wellness.jpg",
       "blogs": [
         { "title": "A Cup of Jo", "url": "https://cupofjo.com/" },
         { "title": "Girlboss", "url": "https://girlboss.com/" },
