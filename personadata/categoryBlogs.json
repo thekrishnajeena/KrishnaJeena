@@ -44,5 +44,6 @@
         { "title": "The Blonde Salad", "url": "https://www.theblondesalad.com/" }
       ]
     }
-  ]
+  ],
+  "articlesCategories": ["entrepreneurship", "AI", "careers", "android", "react", "ai", "webdev", "space"]
 }
