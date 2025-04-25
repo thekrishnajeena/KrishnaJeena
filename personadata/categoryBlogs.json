@@ -4,6 +4,8 @@
       "name": "Business",
       "image": "https://aitken-sci.com/wp-content/uploads/2024/04/business.jpg",
       "blogs": [
+{"title": "YCombinator Videos",
+"url": "https://www.ycombinator.com/library"},
         { "title": "Harvard Business Review", "url": "https://hbr.org/" },
         { "title": "For Entrepreneurs (by David Skok)", "url": "https://www.forentrepreneurs.com/" },
         { "title": "Both Sides of the Table (by Mark Suster)", "url": "https://bothsidesofthetable.com" },
@@ -45,5 +47,5 @@
       ]
     }
   ],
-  "articlesCategories": ["entrepreneurship", "AI", "careers", "android", "react", "ai", "webdev", "space"]
+  "articlesCategories": ["economy", "entrepreneurship", "AI", "careers", "android", "react", "ai", "webdev", "space"]
 }
