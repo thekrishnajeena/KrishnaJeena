@@ -1,6 +1,19 @@
 {
   "categories": [
     {
+  "name": "Science",
+  "image": "https://images.unsplash.com/photo-1581091870622-6c6e90ef8f05",
+  "blogs": [
+    { "title": "Quanta Magazine", "url": "https://www.quantamagazine.org/" },
+    { "title": "Nautilus", "url": "https://nautil.us/" },
+    { "title": "Scientific American", "url": "https://www.scientificamerican.com/" },
+    { "title": "Science News", "url": "https://www.sciencenews.org/" },
+    { "title": "Nature News", "url": "https://www.nature.com/news/" },
+    { "title": "WIRED Science", "url": "https://www.wired.com/category/science/" },
+    { "title": "Live Science", "url": "https://www.livescience.com/" }
+  ]
+}
+,   {
       "name": "Business",
       "image": "https://aitken-sci.com/wp-content/uploads/2024/04/business.jpg",
       "blogs": [
