@@ -2,7 +2,9 @@
   "categories": [
     {
       "name": "Business",
-      "blogs": [
+      "blogs": {
+"title": "Founders Tribune",
+"url":"https://founderstribune.org"},
         {
           "title": "Harvard Business Review",
           "url": "https://hbr.org/"
